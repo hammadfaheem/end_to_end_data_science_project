@@ -1,7 +1,3 @@
-Here's a description you can use for your GitHub repository:
-
----
-
 # End-to-End Data Science Project Template
 
 This repository provides a comprehensive template for building an end-to-end data science project. It includes everything needed to develop, deploy, and maintain a machine learning model, from data ingestion to deployment and monitoring. The project follows best practices for CI/CD and containerization, ensuring a scalable and reproducible workflow.
