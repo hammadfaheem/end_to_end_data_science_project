@@ -13,5 +13,3 @@ This repository provides a comprehensive template for building an end-to-end dat
 - **Monitoring & Logging**: Integrated monitoring tools for tracking model performance and data drift over time.
 - **Setup & Installation**: `setup.py` and `requirements.txt` for easy installation of dependencies.
 - **Documentation**: Comprehensive documentation with examples and usage guides.
-
-testing readme from origin
