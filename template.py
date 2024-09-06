@@ -11,10 +11,10 @@ list_of_files= [
     # ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
-    f"src/{project_name}/componenets/data_injestion.py",
-    f"src/{project_name}/componenets/data_transformation.py",
-    f"src/{project_name}/componenets/data_trainer.py",
-    f"src/{project_name}/componenets/data_monitoring.py"
+    f"src/{project_name}/components/data_injestion.py",
+    f"src/{project_name}/components/data_transformation.py",
+    f"src/{project_name}/components/data_trainer.py",
+    f"src/{project_name}/components/data_monitoring.py"
 
 
     f"src/{project_name}/pipelines/__init__.py",
